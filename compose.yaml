@@ -1,0 +1,7 @@
+﻿services:
+  ecom-web-app:
+    image: ecom-web-app
+    build:
+      context: .
+      dockerfile: ecom-web-app/Dockerfile
+

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "MwLnOXHADsLQti8+KkLtRxb6GuGjLZc5pHDdYk8PDh8=",
+  "Source": "ecom-web-app",
+  "BasePath": "_content/ecom-web-app",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

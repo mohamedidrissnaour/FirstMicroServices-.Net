@@ -1,0 +1,6 @@
+@ecom_web_app_HostAddress = http://localhost:5039
+
+GET {{ecom_web_app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
